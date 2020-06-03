@@ -1,0 +1,6 @@
+﻿  Random_Int_Game.c
+c:\users\82105\desktop\portfolio\random_int_game\random_int_game\random_int_game.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\82105\desktop\portfolio\random_int_game\random_int_game\random_int_game.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Random_Int_Game.vcxproj -> C:\Users\82105\Desktop\Portfolio\Random_Int_Game\Debug\Random_Int_Game.exe
